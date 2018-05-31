@@ -1,6 +1,7 @@
 const methods = {
   methods: {
     test () {
+      console.log(1)
     }
   }
 }
